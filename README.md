@@ -2,9 +2,11 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+### Release Notes
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+? New software features for this release
+? Bug fixes made since the last release
+? Known bugs and defects -- you should also include here any functionality you promised the customer but is missing in the release
 
 ### Prerequisites
 

@@ -5,17 +5,32 @@ One Paragraph of project description goes here
 ### Release Notes
 
 New software features for this release:
+
 1.As a player, I want to be able to start the game and quit the game (not exit) to begin playing or go back to the start screen.
+
 2.As a player, I want to see my score so I can compare against others and myself.
+
 3.As a player, I want to be able to pause and un pause the game.
+
 4.As a player, I want to be able to progress through levels so that I have a sense of improvement from one game to the next.
+
 5.As a player, I want to interact with the game via some method of controlling so that I can interact with the environment and progress through the game.
+
 6.As a player, I want to be able to attack, so I can kill the enemies that try to attack me.As a player, I want to be able to jump, so I can avoid enemy’s attacks.
-7.As a user, I want to see some animations so I can have more enjoyment when I play. Bug fixes made since the last release:
-8.As a user, I want to know my remaining health points, so I know when to be careful. 
+
+7.As a user, I want to see some animations so I can have more enjoyment when I play. 
+
+8.As a user, I want to know my remaining health points, so I know when to be careful.
+ 
 9.As a player, I want to be able to check the
 control key setting the control key settings, so I can control my character.
+
+Bug fixes made since the last release:
+
+This is an initial release.
+
 Known bugs and defects: 
+
 There are no known bugs from implemented futures.
 
 functionality are missing in the release:

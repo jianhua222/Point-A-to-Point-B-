@@ -72,12 +72,12 @@ Go to the Code page of the github repository and click the Clone or download but
 ### Build instructions(optional):
 If you want to build the game code in Unity environment, un-zip the file and use Unity to open the folder called "JuniorDesignGame". Then, click the triangle play button.
 
-### Installation? ?of? ?actual? ?application: 
-Un-zip the file downloaded from Github. There is no additional installation? needed for running the ?actual? ?application.
+### Installation of actual application: 
+Un-zip the file downloaded from Github. There is no additional installation needed for running the actual application.
 
-### Run? ?instructions:?
+### Run instructions:
 Double click JuniorDesignGame.exe from the unzipped folder to execute.
-### Troubleshooting:?
+### Troubleshooting:
 
 Unable to Install Unity
 

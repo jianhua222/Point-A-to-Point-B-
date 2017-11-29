@@ -59,14 +59,43 @@ Windows Phone: 8.1 or later.
 Windows Store Apps: 8.1 or later.
 
 More Details: https://unity3d.com/unity/system-requirements
-### Dependent? ?libraries? ?that? ?must? ?be? ?installed:
+### Dependent libraries that must be installed:
 
 Please follow the Unity installation guide for your operating system: https://docs.unity3d.com/Manual/InstallingUnity.html
 
 Once the Unity is fully installed, there is no aditional libraries must be installed for running the project.
  
-### Download? ?instructions:
+### Download instructions:
 
 Go to the Code page of the github repository and click the Clone or download button, then click the Download ZIP.
 
-### Build? ?instructions?:
+### Build instructions(optional):
+If you want to build the game code in Unity environment, un-zip the file and use Unity to open the folder called "JuniorDesignGame". Then, click the triangle play button.
+
+### Installation? ?of? ?actual? ?application: 
+Un-zip the file downloaded from Github. There is no additional installation? needed for running the ?actual? ?application.
+
+### Run? ?instructions:?
+Double click JuniorDesignGame.exe from the unzipped folder to execute.
+### Troubleshooting:?
+
+Unable to Install Unity
+
+Make sure that the current device and the operating system meets minimum requirement for installing Unity. For more information:https://docs.unity3d.com/Manual/TroubleShooting.html
+
+Unable to Build the project:
+
+Make sure that the Unity installed is the latest version.
+
+The game is running slow:
+
+Try to close all the unnecessary processes if possible.
+
+Make sure that graphics card driver is updated to the latest version.
+
+Try to restart the device.
+
+
+
+
+

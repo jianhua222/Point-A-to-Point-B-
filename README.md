@@ -2,9 +2,9 @@
 
 The initial release of Point A to Point B
 
-### Release Notes
+## Release Notes
 
-New software features for this release:
+#### New software features for this release:
 
 1.As a player, I want to be able to start the game and quit the game (not exit) to begin playing or go back to the start screen.
 
@@ -34,18 +34,27 @@ This is an initial release.
 There are no known bugs from implemented features.
 
 #### functionality are missing in the release:
-1.The feature of targeting enemies is missing. 
-2.we had a feature of viewing and changing the user settings. Currently, the viewing portion of that feature is working, but setup user preferences and changes feature is missing.
+1.The feature of targeting enemies is missing.
+ 
+2.We had a feature of viewing and changing the user settings. Currently, the viewing portion of that feature is working, but setup user preferences and changes feature is missing.
 
 #### Implemented Stretch Goals
+
 1.More advanced AI.
+
 2.Better looking animations.
+
 3.A boss character.
+
 4.Health Bar color change.
+
 5.Randomly spawns the next enemy.
+
 6.User data can be restored from persisted information.
 
-### Prerequisites
+##Install Guide
+
+#### Prerequisites
 
 For development:
 OS: Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.9+.
@@ -68,25 +77,25 @@ Windows Phone: 8.1 or later.
 Windows Store Apps: 8.1 or later.
 
 More Details: https://unity3d.com/unity/system-requirements
-### Dependent libraries that must be installed:
+#### Dependent libraries that must be installed:
 
 Please follow the Unity installation guide for your operating system: https://docs.unity3d.com/Manual/InstallingUnity.html
 
 Once the Unity is fully installed, there are no aditional libraries must be installed for running the project.
  
-### Download instructions:
+#### Download instructions:
 
 Go to the Code page of the github repository and click the Clone or download button, then click the Download ZIP.
 
-### Build instructions(optional):
+#### Build instructions(optional):
 If you want to build the game code in Unity environment, un-zip the file and use Unity to open the folder called "JuniorDesignGame". Then, click the triangle play button.
 
-### Installation of actual application: 
+#### Installation of actual application: 
 Un-zip the file downloaded from Github. There is no additional installation needed for running the actual application.
 
-### Run instructions:
+#### Run instructions:
 Double click JuniorDesignGame.exe from the unzipped folder to execute.
-### Troubleshooting:
+#### Troubleshooting:
 
 Unable to Install Unity:
 

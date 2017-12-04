@@ -33,7 +33,7 @@ This is an initial release.
 
 There are no known bugs from implemented features.
 
-#### Functionality are missing in the release:
+#### Functionalities are missing in the release:
 1.The feature of targeting enemies is missing.
  
 2.We had a feature of viewing and changing the user settings. Currently, the viewing portion of that feature is working, but setup user preferences and changes feature is missing.

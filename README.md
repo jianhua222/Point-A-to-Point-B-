@@ -52,7 +52,7 @@ There are no known bugs from implemented features.
 
 6.User data can be restored from persisted information.
 
-##Install Guide
+## Install Guide
 
 #### Prerequisites
 

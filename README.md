@@ -1,6 +1,6 @@
-# Project Title
+# Point A to Point B
 
-One Paragraph of project description goes here
+The initial release of Point A to Point B
 
 ### Release Notes
 
@@ -25,27 +25,36 @@ New software features for this release:
 9.As a player, I want to be able to check the
 control key setting the control key settings, so I can control my character.
 
-Bug fixes made since the last release:
+#### Bug fixes made since the last release:
 
 This is an initial release.
 
-Known bugs and defects: 
+#### Known bugs and defects: 
 
-There are no known bugs from implemented feature.
+There are no known bugs from implemented features.
 
-functionality are missing in the release:
-The feature of targeting enemies is missing. Also, we had a feature of viewing and changing the user settings. Currently, the viewing portion of that feature is working, but setup user preferences and changes feature is missing.
+#### functionality are missing in the release:
+1.The feature of targeting enemies is missing. 
+2.we had a feature of viewing and changing the user settings. Currently, the viewing portion of that feature is working, but setup user preferences and changes feature is missing.
+
+#### Implemented Stretch Goals
+1.More advanced AI.
+2.Better looking animations.
+3.A boss character.
+4.Health Bar color change.
+5.Randomly spawns the next enemy.
+6.User data can be restored from persisted information.
 
 ### Prerequisites
 
-For development
+For development:
 OS: Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.9+.
 Windows XP & Vista are not supported; and server versions of Windows & OS X are not tested.
 CPU: SSE2 instruction set support.
 
 GPU: Graphics card with DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities.
 
-For running Unity games
+For running Unity games:
 Generally content developed with Unity can run pretty much everywhere. How well it runs is dependent on the complexity of your project. More detailed requirements:
 
 Desktop:
@@ -63,7 +72,7 @@ More Details: https://unity3d.com/unity/system-requirements
 
 Please follow the Unity installation guide for your operating system: https://docs.unity3d.com/Manual/InstallingUnity.html
 
-Once the Unity is fully installed, there is no aditional libraries must be installed for running the project.
+Once the Unity is fully installed, there are no aditional libraries must be installed for running the project.
  
 ### Download instructions:
 
@@ -79,7 +88,7 @@ Un-zip the file downloaded from Github. There is no additional installation need
 Double click JuniorDesignGame.exe from the unzipped folder to execute.
 ### Troubleshooting:
 
-Unable to Install Unity
+Unable to Install Unity:
 
 Make sure that the current device and the operating system meets minimum requirement for installing Unity. For more information:https://docs.unity3d.com/Manual/TroubleShooting.html
 

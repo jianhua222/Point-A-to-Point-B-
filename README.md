@@ -16,7 +16,7 @@ The initial release of Point A to Point B
 
 5.As a player, I want to interact with the game via some method of controlling so that I can interact with the environment and progress through the game.
 
-6.As a player, I want to be able to attack, so I can kill the enemies that try to attack me.As a player, I want to be able to jump, so I can avoid enemy’s attacks.
+6.As a player, I want to be able to attack, so I can kill the enemies that try to attack me.As a player, I want to be able to jump, so I can avoid enemyâ€™s attacks.
 
 7.As a user, I want to see some animations so I can have more enjoyment when I play. 
 
@@ -116,4 +116,12 @@ Try to restart the device.
 
 
 
+
+#### Playing the Game
+
+Download the file PointAToPointB.exe and the PointAToPointB_Data.zip files
+
+Extract the .zip folder into the same folder as the .exe file.
+
+Double click the .exe to launch the Unity Launcher for games.
 
